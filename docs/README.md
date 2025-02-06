@@ -1,7 +1,7 @@
 # Bbd
 
-Create and edit business with this powerful tool. , display business information and share it with your digital sign screen .
-Ê¹ÓÃÕâ¸öÇ¿´óµÄ¹¤¾ß´´½¨ºÍ±à¼­ÒµÎñ¡£ £¬ÏÔÊ¾ÉÌÒµĞÅÏ¢²¢ÓëÄúµÄÊı×Ö±êÅÆÆÁÄ»¹²Ïí¡£
+Create and edit business with this powerful tool. , display business information and share it with your digital sign screen .    
+ä½¿ç”¨è¿™ä¸ªå¼ºå¤§çš„å·¥å…·åˆ›å»ºå’Œç¼–è¾‘ä¸šåŠ¡ã€‚ ï¼Œæ˜¾ç¤ºå•†ä¸šä¿¡æ¯å¹¶ä¸æ‚¨çš„æ•°å­—æ ‡ç‰Œå±å¹•å…±äº«ã€‚
 
 ## Overview
 
