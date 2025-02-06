@@ -1,0 +1,12 @@
+{
+    "id": "bbd",
+    "name": "Bbd",
+    "description": "Building Business Directory.",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
